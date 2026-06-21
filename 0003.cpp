@@ -4,6 +4,7 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int k;
+        cin>>k;
     }
 };
 int main(){
