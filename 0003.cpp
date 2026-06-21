@@ -3,7 +3,7 @@ using namespace std;
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        
+        int k;
     }
 };
 int main(){
@@ -14,5 +14,4 @@ int main(){
     int a=sol.lengthOfLongestSubstring(s);
     cout<<a;
     return 0;
-
 }
