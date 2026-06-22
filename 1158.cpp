@@ -7,7 +7,7 @@ using namespace std;
 class Solution {
 public:
     int sumOddLengthSubarrays(vector<int>& arr) {
-        int len=arr.length();
+        int len=arr.size();
         if(len%2==0){
             for(int i=0;i<len;i++){
                 
