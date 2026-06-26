@@ -1,4 +1,4 @@
-//Problem #27 – Remove Element
+//Problem #27 – Remove Elements
 #include <bits/stdc++.h>
 using namespace std;
 class Solution {
