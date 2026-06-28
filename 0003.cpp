@@ -27,4 +27,10 @@ public:
         return ans;
     }
 };
-int main
+int main(){
+    Solution sol;
+    string s;
+    cin>>s;
+    cout<<sol.lengthOfLongestSubstring(s);
+    return 0;
+}
