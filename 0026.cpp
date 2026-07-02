@@ -5,7 +5,7 @@ Problem: Remove Duplicates from Sorted Array
 
 Approach:
 1. Sort the array so that all duplicate elements come together.
-2. Use the unique() function to move duplicate elements to the end.
+2. Use the unique() function to  move duplicate elements to the end.
 3. Erase the duplicate part using erase().
 4. Return the size of the modified vector.
 
